@@ -72,7 +72,8 @@ How likely is my phone going to fall out of pocket?
 Risk Register 
 -  An important place, software, or spreadsheet to capture, identify, document, and propose solutions and mitigate controls for risks.
 -  It allows senior management and the board of directors to view the risks within the organization and prioritize them.
--  Decision-makers will use the register to prioritize whether to accept the risk or develop a mitigation plan.  
+-  Decision-makers will use the register to prioritize whether to accept the risk or develop a mitigation plan.
+-  Control mapping is linking a framework to implement a recommended security control 
 ![IC-Simple-Safety-Risk-Register-Template](https://github.com/jerrycoriolan/Risk-Analysis/assets/168882662/b90bf747-eb8d-4c30-aef4-80cd522b342a)
 
 
@@ -107,6 +108,12 @@ Inherent Risk is 20%
 Residual Risk is 10% 
 
 ![ALE-calculation](https://github.com/jerrycoriolan/Risk-Analysis/assets/168882662/1ac686e2-f96a-4155-bc61-fe88bc7e2aaf)
+
+# Conclusion 
+Stakeholders want to know where their organization has started, the inherent risk, where it is currently, the residual risk, and the target risk. 
+![Screenshot 2024-07-09 at 11 40 17 PM](https://github.com/jerrycoriolan/Risk-Analysis/assets/168882662/dc24cb85-af58-432c-a751-a15388d3053f)
+
+
 
 
 
